@@ -1,3 +1,12 @@
 body {
+    background-color: gray;
+}
+.primeiro {
+    color: brown;
+}
+.segundo {
+    color: blue;
+}
+img {
     text-align: center;
 }
