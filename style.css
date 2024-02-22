@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+    background-position: center;
+}
+.primeiro {
+    color: brown;
+}
+.segundo {
+    color: blue;
+}
+.terceiro {
+    color: brown;
+}
+h3 {
+    color: aqua;
+}
+h4 {
+    color: chocolate;
+}
+h5 {
+    color: blueviolet;
+}
+h6 {
+    color: darkgoldenrod;
+}
+.video {
+     text-align: center;
+}
+.lista {
+    position: relative;
+}
